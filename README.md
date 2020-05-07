@@ -1,2 +1,2 @@
-# EasyQuests
-A web app to easily build quetionaires.
+# EasySurvey
+A web app to easily build surveys.
